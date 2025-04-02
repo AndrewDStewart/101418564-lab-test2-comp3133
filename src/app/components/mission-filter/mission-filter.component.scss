@@ -1,0 +1,10 @@
+.filter-container {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+    
+    mat-form-field {
+      min-width: 200px;
+    }
+  }
