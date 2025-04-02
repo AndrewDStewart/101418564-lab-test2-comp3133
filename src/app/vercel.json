@@ -1,4 +1,8 @@
 {
+    "version": 2,
+    "framework": "angular",
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist/101418564-lab-test2-comp3133/browser",
     "rewrites": [
       {
         "source": "/(.*)",
